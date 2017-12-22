@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+div{
+	border: 0px solid blue
+}
+
+card-deck{
+	padding: 0px,
+}
+
+.titulo{
+	padding:200px
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-image: none;
+    background-clip: padding-box;
+    border: 0px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
